@@ -1,0 +1,7 @@
+#!/bin/bash
+# Weller Make
+
+wmake
+wclean
+wclean
+wclean
